@@ -26,7 +26,11 @@ Includes a highly recommended patch within that fixes the wheel clipping through
 
 
 
+DEPENDENCIES
+=========================================================================================
+*This is not a standalone mod!*
 
+KerbalFoundries2: https://github.com/shadowmage45/KerbalFoundries2
 
 INSTALLATION
 =========================================================================================
