@@ -1,7 +1,9 @@
 # Kerbal Foundries Expansion by *aw4cs*
 ### _Expanded Adjustable Landing Gear Part Mod_ 
 
-https://forum.kerbalspaceprogram.com/topic/231444-1125-kerbalfoundriesexpansion/
+KerbalSpaceProgram Forum: https://forum.kerbalspaceprogram.com/topic/231444-1125-kerbalfoundriesexpansion/
+
+SPACEDOCK: https://spacedock.info/mod/4434/TU%20KerbalFoundriesExpansion
 
 <br>
 <img width="937" alt="v1,1 lineup greyscale" src="https://github.com/user-attachments/assets/a09a8f9e-b9d0-46fe-8802-2cf4a3f68dbc" />
