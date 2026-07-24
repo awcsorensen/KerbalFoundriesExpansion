@@ -80,7 +80,7 @@ Optional TURD config for *KerbalFoundries* ALG and new expansion parts.
 
 ## INSTALLATION
 
-- Delete any previous versions of KerbalFoundriesExpansion and related TURD configs. Place the GameData/KerbalFoundriesExpansion and GameData/TURD/TU_AGL_Recolour directories into Kerbal Space Program/GameData directory.
+- Delete any previous versions of KerbalFoundriesExpansion and related TURD configs. Place the GameData/KerbalFoundriesExpansion and GameData/TURD/TU_ALG_Recolour directories into Kerbal Space Program/GameData directory.
 
 
 - If Module Manager is not already intalled, place the appropriate version of ModuleManager.dll into Kerbal Space Program/GameData directory.
