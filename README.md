@@ -1,13 +1,11 @@
-# Kerbal Foundries Expansion by *aw4cs*
+<img width="844" height="130" alt="kfe_header" src="https://github.com/user-attachments/assets/f54b1e1e-d389-4f94-b07e-6ec4426bb0e7" />
+
 ### _Expanded Adjustable Landing Gear Part Mod_ 
 
 KerbalSpaceProgram Forum: https://forum.kerbalspaceprogram.com/topic/231444-1125-kerbalfoundriesexpansion/
 
-SPACEDOCK: https://spacedock.info/mod/4434/TU%20KerbalFoundriesExpansion
+SPACEDOCK: https://spacedock.info/mod/4433/KerbalFoundriesExpansion
 
-<br>
-<img width="937" alt="v1,1 lineup greyscale" src="https://github.com/user-attachments/assets/a09a8f9e-b9d0-46fe-8802-2cf4a3f68dbc" />
-<br>
 
 ## Features:
 
@@ -22,7 +20,7 @@ An expansion of KerbalFoundries2 by ***shadowmage45*** which includes the update
 <img height="330" alt="kfe_alg_cycle" src="https://github.com/user-attachments/assets/4f4a42f8-6dc2-41e5-a2ec-9467c0da4cd2" />
 <img height="330" alt="kfe_extralargeside_adjustment" src="https://github.com/user-attachments/assets/d3a16f57-701a-407e-96e9-755e607b0415" />
 
-## Part List:
+## Release Part List:
 <br>
 
 - **Extra Large** *(new size)*
@@ -57,36 +55,28 @@ New Medium and Large sizes, as well as Extra Large
 
 Housing free versions of all sizes
 
-<img height="380" alt="v1,1 NH medium" src="https://github.com/user-attachments/assets/0cceb4cb-52b1-4b27-8c63-adc86d469c82" />
-<img height="380" alt="v1,1 NH large" src="https://github.com/user-attachments/assets/3d64ef02-56fe-4e7b-8a64-bd0bd6c02440" />
-<img height="380" alt="v1,1 NH extralarge" src="https://github.com/user-attachments/assets/14642c7f-e872-421d-92d0-adc144d2bfc4" />
-<img height="380" alt="v1,1 NH small" src="https://github.com/user-attachments/assets/f10c7ed6-a3cd-4357-9fb8-06c95bced28e" />
-
+<img width="1236" height="744" alt="image" src="https://github.com/user-attachments/assets/8ae02b5f-58cf-4910-b1dd-ee13874ddde1" />
 
 ---
 Optional TURD config for *KerbalFoundries* ALG and new expansion parts.
-
-<img width="1093" height="750" alt="v1,1 lineup TURD" src="https://github.com/user-attachments/assets/be4db9e6-2972-4621-925e-15e040e61f02" />
-
-
 
 
 ## DEPENDENCIES
 ***This is not a standalone mod!***
 
 - KerbalFoundries2: https://github.com/shadowmage45/KerbalFoundries2
+  
+- KSPWheel 0.17.0.0: https://github.com/awcsorensen/KSPWheel/releases/tag/0.17.0.0
 
 - TexturesUnlimited: https://github.com/shadowmage45/TexturesUnlimited
 
 ## INSTALLATION
 
-- Delete any previous versions of KerbalFoundriesExpansion and related TURD configs. Place the GameData/KerbalFoundriesExpansion and GameData/TURD/TU_ALG_Recolour directories into Kerbal Space Program/GameData directory.
+- Download KerbalFoundriesExpansion-1.3.0, TUKerbalFoundriesExpansion-1.3.0, and KSPWheel 0.17.0.0
 
+- Delete any previous versions of KerbalFoundriesExpansion and related TURD configs. Place the GameData/KerbalFoundriesExpansion, GameData/TURD/TU_ALG_Recolour, and GameData/KSPWheel directories into Kerbal Space Program/GameData directory.
 
 - If Module Manager is not already intalled, place the appropriate version of ModuleManager.dll into Kerbal Space Program/GameData directory.
-
-
-- (Optional) Place the desired patches from Extras/KerbalFoundriesExpansion/Patches into KerbalFoundriesExpansion/Patches
 
 
 ## LICENSE
